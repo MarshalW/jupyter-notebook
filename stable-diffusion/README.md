@@ -26,3 +26,10 @@ stable diffusion 是一个开源的生成图像的扩散模型。
 ## 其他示例
 
 - [图生图，基于带珍珠耳环的少女](./examples.dog-wearing-earring.ipynb)
+
+
+## TODO
+
+- 使用 c 站模型
+    - ckpt 模型
+    - lora 模型
