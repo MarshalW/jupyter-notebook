@@ -32,4 +32,7 @@ stable diffusion 是一个开源的生成图像的扩散模型。
 
 - 使用 c 站模型
     - ckpt 模型
-    - lora 模型
+    - lora 模型 
+- 换脸，没有现成的示例，参考
+    - https://github.com/Gourieff/sd-webui-reactor
+    - https://github.com/s0md3v/roop
