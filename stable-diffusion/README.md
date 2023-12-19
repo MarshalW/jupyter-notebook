@@ -11,7 +11,7 @@ stable diffusion 是一个开源的生成图像的扩散模型。
 3. [最简单的 pipeline - 无条件生成图像](./3.pipeline-unconditional.ipynb)
 4. [使用文生图 pipeline - stable diffusion v1.5 模型](./4.pipeline-text2img-sd.ipynb)
 5. [使用文生图 pipeline - stable diffusion XL 模型](./5.pipeline-text2img-sdxl.ipynb)
-6. [使用文生图 pipeline - kandinsky 模型](./5.2.pipeline-text-img-kandinsky.ipynb)
+6. [使用文生图 pipeline - kandinsky 模型](./5.2.pipeline-text2img-kandinsky.ipynb)
 7. [文生图的参数设置](./6.pipeline-text2img-config.ipynb)
 8. [文生图的控制](./7.text2img-control.ipynb)
 9. [文生图的系统优化](./8.optimize.ipynb) 
