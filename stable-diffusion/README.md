@@ -20,7 +20,7 @@ stable diffusion 是一个开源的生成图像的扩散模型。
 12. [图生图的参数设置](./11.pipeline-img2img-config.ipynb)
 13. [多级链接图生图 pipeline](./12.chained-img2img-pipeline.ipynb)
 14. [图生图的系统优化](./13.optimize.ipynb)
-15. [使用图像修复 pipeline - stable diffusion inpainting](./14.pioeline-inpainting.ipynb)
+15. [使用图像修复 pipeline - stable diffusion inpainting](./14.pipeline-inpainting.ipynb)
 16. [使用图像深度 pipeline](./15.pipeline-depth2img.ipynb)
 
 ## 其他示例
